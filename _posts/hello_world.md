@@ -1,14 +1,19 @@
+---
+
+published: false
+---
+
 title: Hi Everybody!
-    date: 2012-12-12
+date: 2012-12-12
 
-    ## Hello World
+## Hello World
 
-    This is my first blog post.
+This is my first blog post.
 
-    I like Telegram because:
+I like Telegram because:
 
-    * It's simple
-    * It's got nice templates
-    * I control my content
+* It's simple
+* It's got nice templates
+* I control my content
     
-   Updated using prose.io
+Updated using prose.io
